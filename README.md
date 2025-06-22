@@ -10,11 +10,6 @@
 * [Tools Used](#tools-used)
 * [Data Source](#data-source)
 * [Methodology & Key Steps](#methodology--key-steps)
-    * [Data Preparation](#data-preparation)
-    * [RFM Calculation](#rfm-calculation-rfm-calculations-sheet)
-    * [RFM Scoring](#rfm-scoring)
-    * [Customer Segmentation](#customer-segmentation)
-    * [Interactive Dashboard Creation](#interactive-dashboard-creation-rfm-dashboard-sheet)
 * [Key Insights](#key-insights)
 * [Recommendations](#recommendations)
 * [How to Explore the Project](#how-to-explore-the-project)
@@ -88,10 +83,10 @@ The analysis is based on a simulated transactional dataset for GlobalGadgets, na
 
 ## Key Insights
 
-* **At Risk Customers** represent the highest revenue pool ($260,324) despite showing significant recency (Avg. 605 days), making them a critical segment for re-engagement.
-* **Champion Customers** are highly valuable, demonstrating superior Recency (Avg. 48 days), Frequency (Avg. 18 orders), and Monetary value (Avg. $10,613.20), contributing $222,877.15 in revenue.
-* The **'Other' segment** is the largest by count (43% of customers) and contributes notable revenue ($84,021.04). Its diverse profile indicates a need for deeper investigation to unlock potential.
-* **New Customers** (15% of base) are recent buyers with lower frequency/monetary values, requiring focused nurturing.
+* **At Risk Customers** represent the highest revenue pool **($260,324)** despite showing significant recency **(Avg. 605 days)**, making them a critical segment for re-engagement.
+* **Champion Customers** are highly valuable, demonstrating superior Recency **(Avg. 48 days)**, Frequency **(Avg. 18 orders)**, and Monetary value **(Avg. $10,613.20)**, contributing **$222,877.15** in revenue.
+* The **'Other' segment** is the largest by count **(43% of customers)** and contributes notable revenue **($84,021.04)**. Its diverse profile indicates a need for deeper investigation to unlock potential.
+* **New Customers** **(15% of base)** are recent buyers with lower frequency/monetary values, requiring focused nurturing.
 * **Smartphones** and **Laptops** are the primary revenue-generating product categories.
 * Demographic analysis reveals varying distributions across segments, e.g., 'New Customers' concentrate in younger age groups, while 'Champions' are present across broader age ranges.
 
