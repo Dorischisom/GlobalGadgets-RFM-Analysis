@@ -2,6 +2,24 @@
 
 ![GlobalGadgets Banner](GlobalGadgetsBanner/GlobalGadgetsBanner.jpg)
 
+# GlobalGadgets Customer RFM Analysis & Segmentation
+
+## Table of Contents
+* [Project Overview](#Project-overview)
+* [Business Value of RFM Analysis](#business-value-of-rfm-analysis)
+* [Tools Used](#tools-used)
+* [Data Source](#data-source)
+* [Methodology & Key Steps](#methodology--key-steps)
+    * [Data Preparation](#data-preparation)
+    * [RFM Calculation](#rfm-calculation-rfm-calculations-sheet)
+    * [RFM Scoring](#rfm-scoring)
+    * [Customer Segmentation](#customer-segmentation)
+    * [Interactive Dashboard Creation](#interactive-dashboard-creation-rfm-dashboard-sheet)
+* [Key Insights](#key-insights)
+* [Recommendations](#recommendations)
+* [How to Explore the Project](#how-to-explore-the-project)
+* [Screenshots](#screenshots)
+
 
 ## Project Overview
 
