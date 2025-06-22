@@ -43,8 +43,7 @@ By categorizing customers into distinct RFM segments (e.g., Champions, Loyal, At
 ## Data Source
 
 The analysis is based on a simulated transactional dataset for GlobalGadgets, named `GlobalGadgets-Full_Data.csv`. It includes:
-* `Transaction ID`, `Customer ID`, `Transaction Date`, `Product ID`, `Product Category`, `Quantity`, `Unit Price`.
-* Crucially, **demographic data** (`Gender`, `Age`) is included to enrich the segmentation insights.
+* `Transaction ID`, `Customer ID`, `Transaction Date`, `Product ID`, `Product Category`, `Quantity`, `Unit Price`, `Gender`, `Age`.
 
 ## Methodology & Key Steps
 
@@ -88,7 +87,7 @@ The analysis is based on a simulated transactional dataset for GlobalGadgets, na
 * The **'Other' segment** is the largest by count **(43% of customers)** and contributes notable revenue **($84,021.04)**. Its diverse profile indicates a need for deeper investigation to unlock potential.
 * **New Customers** **(15% of base)** are recent buyers with lower frequency/monetary values, requiring focused nurturing.
 * **Smartphones** and **Laptops** are the primary revenue-generating product categories.
-* Demographic analysis reveals varying distributions across segments, e.g., 'New Customers' concentrate in younger age groups, while 'Champions' are present across broader age ranges.
+* **Demographic analysis** reveals varying distributions across segments, e.g., **'New Customers'** concentrate in younger age groups, while **'Champions'** are present across broader age ranges.
 
 ## Recommendations
 
